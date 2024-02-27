@@ -1,1 +1,1 @@
-A simple frontend application made to fetch data from a Wordpress Headless CMS.
+A simple frontend react application made to fetch data from a Wordpress Headless CMS.
