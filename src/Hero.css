@@ -1,0 +1,18 @@
+.hero-text {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.lead-title {
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+.lead-title span {
+  color: #4A00E0;
+}
+
+.lead-desc {
+  color: #3b3b3b;
+}
+
